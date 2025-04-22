@@ -1,6 +1,6 @@
 # Web-Technology
 <h3>Title:1 </h3>
-Before coding of the website, planning is important, students should visit different websites (Min. 5) for the 
+ Before coding of the website, planning is important, students should visit different websites (Min. 5) for the 
 different client projects and note down the evaluation results for these websites, either good website or bad 
 website
 
@@ -12,7 +12,7 @@ and images, forms etc. <br/>
 b) Use of Internal CSS, Inline CSS, External CSS.
 
 <h3>Title:3 </h3>
-: Implement an application in Java Script using following:  <br/>
+ Implement an application in Java Script using following:  <br/>
 a) Design UI of application using HTML, CSS etc.  <br/>
 b) Include Java script validation  <br/>
 c) Use of prompt and alert window using Java Script  <br/>
@@ -23,6 +23,10 @@ b) Validate input values  <br/>
 c) Prompt/alerts for invalid values etc. <br/>
 
 <h3>Title:4 </h3>
-Design an application using Angular JS.   <br/>
+ Design an application using Angular JS.   <br/>
 e.g., Design registration (first name, last name, username, password) and login page using Angular JS.
 
+<h3>Title:3 </h3>
+ Implement the sample program demonstrating the use of Servlet.  
+e.g., Create a database table ebookshop (book_id, book_title, book_author, book_price, quantity) using 
+database like Oracle/MySQL etc. update and display (use SQL select query) the table content using servlet.
